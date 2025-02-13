@@ -6,3 +6,4 @@
 |4|[online_shoppers](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/online_shoppers/online_shoppers.ipynb)|Аналіз користувачів на сайті e-commerce|
 |5|[ecommerce_ab_testing](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/ecommerce_ab_testing/ecommerce_ab_testing.ipynb)|Аналіз AБ тесту з новою версією сторінки|
 |6|[testovoe_ab](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/ab_test/ab_test.ipynb)|Аналіз AБ тесту|
+|7|[marketing_ab_testing](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/marketing_ab_testing/marketing_ab_testing.ipynb)|Аналіз впливу реклами на конверсію|
