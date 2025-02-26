@@ -8,3 +8,4 @@
 |6|[testovoe_ab](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/ab_test/ab_test.ipynb)|Аналіз AБ тесту|
 |7|[marketing_ab_testing](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/marketing_ab_testing/marketing_ab_testing.ipynb)|Аналіз впливу реклами на конверсію|
 |8|[ab_test_smart_ad](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/ab_test_smart_ad/ab_test_smart_ad.ipynb)|Аналіз впливу рекламного креативу на залученість користувачів|
+|9|[marketing_campaign_dataset](https://github.com/dkolesov95/exploratory_data_analysis/blob/main/marketing_campaign/marketing_campaign_dataset.ipynb)|Аналіз бізнесметрик рекламних кампаній|
